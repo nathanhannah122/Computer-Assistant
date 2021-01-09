@@ -46,4 +46,4 @@ To change activation word from computer
 pip install (insert package name)
 repeat for all libraries
 
-e.g pip install pyaudio
+e.g `pip install pyaudio`
